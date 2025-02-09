@@ -19,7 +19,7 @@
         "format": "prettier . --write"
     },
     "keycloakify": {
-        "accountThemeImplementation": "none",
+        "accountThemeImplementation": "Multi-Page",
         "projectBuildDirPath": "build",
         "staticDirPathInProjectBuildDirPath": "static",
         "publicDirPath": "public"

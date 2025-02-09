@@ -190,11 +190,11 @@ export function Template(props: TemplateProps<KcContext, I18n>) {
             <div id="kc-header-wrapper" className=" text-foreground !text-[18px] ">
                 
                 <div className="flex items-center space-x-2">
-                <img src="https://pb.telias.tel/api/files/3m5kaydtzs82wuf/p1vr23astlaxw9l/logo_L8i8FBCLRg.svg?thumb=100x100&token=" alt="Satin Core Banking" className="h-[40px] w-[40px]" />
-                <div className="text-[18px] font-bold">
-                    Satin Core Banking
+                    <img src="https://pb.telias.tel/api/files/3m5kaydtzs82wuf/p1vr23astlaxw9l/logo_L8i8FBCLRg.svg?thumb=100x100&token=" alt="Satin Core Banking" className="h-[40px] w-[40px]" />
+                    <div className="text-[18px] font-bold">
+                        Satin Core Banking
+                    </div>
                 </div>
-            </div>
             </div>
             <Card className="py-0 px-3 p-10    md:-[40rem] bg-[#f8f8f8] dark:bg-[#020506]  shadow-none  rounded-sm w-full min-h-screen  md:w-[30rem] sm:min-h-fit border border-slate-200 dark:border-slate-700">
                 <CardContent className="space-y-8 pb-5 border-none ">
